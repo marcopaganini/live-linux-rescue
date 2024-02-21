@@ -1,4 +1,3 @@
-apt-mark
 apt-show-versions
 apt-utils
 bash-completion
@@ -31,7 +30,6 @@ httping
 iftop
 ifupdown
 iotop
-iozone3
 iperf
 iperf3
 jq
@@ -74,7 +72,7 @@ tig
 tmux
 tree
 tshark
-unrar
+unrar-free
 usbutils
 vifm
 vim
