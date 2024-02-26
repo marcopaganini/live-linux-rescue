@@ -20,7 +20,7 @@ jobs:
 
       - name: Live Build
         run: |
-          sudo apt-get install live-build --yes
+          sudo apt-get install live-build --install-suggests --yes
           ./build.sh
 
       - uses: "marvinpinto/action-automatic-releases@latest"
